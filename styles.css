@@ -60,16 +60,11 @@ h3 {
     height: 500px;
     
 }
-
-.headingimages img{
-  max-height: 500px;
+img.headingimages {
+  max-height: 350px;
   max-width: 100%;
   
 }  
-
-
-
-
 #history{
   text-align: center;
 }
