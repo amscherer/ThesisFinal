@@ -1,0 +1,710 @@
+[
+    {
+      "ntaname": "Allerton-Pelham Gardens",
+      "bblviolations": 104
+    },
+    {
+      "ntaname": "Astoria",
+      "bblviolations": 255
+    },
+    {
+      "ntaname": "Auburndale",
+      "bblviolations": 7
+    },
+    {
+      "ntaname": "Baisley Park",
+      "bblviolations": 54
+    },
+    {
+      "ntaname": "Bath Beach",
+      "bblviolations": 156
+    },
+    {
+      "ntaname": "Battery Park City-Lower Manhattan",
+      "bblviolations": 4
+    },
+    {
+      "ntaname": "Bay Ridge",
+      "bblviolations": 641
+    },
+    {
+      "ntaname": "Bayside-Bayside Hills",
+      "bblviolations": 7
+    },
+    {
+      "ntaname": "Bedford",
+      "bblviolations": 335
+    },
+    {
+      "ntaname": "Bedford Park-Fordham North",
+      "bblviolations": 2198
+    },
+    {
+      "ntaname": "Belmont",
+      "bblviolations": 878
+    },
+    {
+      "ntaname": "Bensonhurst East",
+      "bblviolations": 476
+    },
+    {
+      "ntaname": "Bensonhurst West",
+      "bblviolations": 419
+    },
+    {
+      "ntaname": "Borough Park",
+      "bblviolations": 510
+    },
+    {
+      "ntaname": "Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",
+      "bblviolations": 12
+    },
+    {
+      "ntaname": "Briarwood-Jamaica Hills",
+      "bblviolations": 147
+    },
+    {
+      "ntaname": "Brighton Beach",
+      "bblviolations": 195
+    },
+    {
+      "ntaname": "Bronxdale",
+      "bblviolations": 636
+    },
+    {
+      "ntaname": "Brooklyn Heights-Cobble Hill",
+      "bblviolations": 38
+    },
+    {
+      "ntaname": "Brownsville",
+      "bblviolations": 720
+    },
+    {
+      "ntaname": "Bushwick North",
+      "bblviolations": 851
+    },
+    {
+      "ntaname": "Bushwick South",
+      "bblviolations": 446
+    },
+    {
+      "ntaname": "Cambria Heights",
+      "bblviolations": 15
+    },
+    {
+      "ntaname": "Canarsie",
+      "bblviolations": 80
+    },
+    {
+      "ntaname": "Carroll Gardens-Columbia Street-Red Hook",
+      "bblviolations": 32
+    },
+    {
+      "ntaname": "Central Harlem North-Polo Grounds",
+      "bblviolations": 846
+    },
+    {
+      "ntaname": "Central Harlem South",
+      "bblviolations": 560
+    },
+    {
+      "ntaname": "Chinatown",
+      "bblviolations": 123
+    },
+    {
+      "ntaname": "Claremont-Bathgate",
+      "bblviolations": 439
+    },
+    {
+      "ntaname": "Clinton",
+      "bblviolations": 100
+    },
+    {
+      "ntaname": "Clinton Hill",
+      "bblviolations": 180
+    },
+    {
+      "ntaname": "Co-op City",
+      "bblviolations": 9
+    },
+    {
+      "ntaname": "College Point",
+      "bblviolations": 25
+    },
+    {
+      "ntaname": "Corona",
+      "bblviolations": 115
+    },
+    {
+      "ntaname": "Crotona Park East",
+      "bblviolations": 184
+    },
+    {
+      "ntaname": "Crown Heights North",
+      "bblviolations": 2052
+    },
+    {
+      "ntaname": "Crown Heights South",
+      "bblviolations": 1196
+    },
+    {
+      "ntaname": "Cypress Hills-City Line",
+      "bblviolations": 453
+    },
+    {
+      "ntaname": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",
+      "bblviolations": 37
+    },
+    {
+      "ntaname": "Dyker Heights",
+      "bblviolations": 144
+    },
+    {
+      "ntaname": "East Concourse-Concourse Village",
+      "bblviolations": 2118
+    },
+    {
+      "ntaname": "East Elmhurst",
+      "bblviolations": 60
+    },
+    {
+      "ntaname": "East Flatbush-Farragut",
+      "bblviolations": 713
+    },
+    {
+      "ntaname": "East Flushing",
+      "bblviolations": 35
+    },
+    {
+      "ntaname": "East Harlem North",
+      "bblviolations": 516
+    },
+    {
+      "ntaname": "East Harlem South",
+      "bblviolations": 238
+    },
+    {
+      "ntaname": "East New York",
+      "bblviolations": 777
+    },
+    {
+      "ntaname": "East New York (Pennsylvania Ave)",
+      "bblviolations": 541
+    },
+    {
+      "ntaname": "East Tremont",
+      "bblviolations": 1041
+    },
+    {
+      "ntaname": "East Village",
+      "bblviolations": 99
+    },
+    {
+      "ntaname": "East Williamsburg",
+      "bblviolations": 130
+    },
+    {
+      "ntaname": "Eastchester-Edenwald-Baychester",
+      "bblviolations": 282
+    },
+    {
+      "ntaname": "Elmhurst",
+      "bblviolations": 242
+    },
+    {
+      "ntaname": "Elmhurst-Maspeth",
+      "bblviolations": 17
+    },
+    {
+      "ntaname": "Erasmus",
+      "bblviolations": 998
+    },
+    {
+      "ntaname": "Far Rockaway-Bayswater",
+      "bblviolations": 297
+    },
+    {
+      "ntaname": "Flatbush",
+      "bblviolations": 3321
+    },
+    {
+      "ntaname": "Flatlands",
+      "bblviolations": 268
+    },
+    {
+      "ntaname": "Flushing",
+      "bblviolations": 179
+    },
+    {
+      "ntaname": "Fordham South",
+      "bblviolations": 1113
+    },
+    {
+      "ntaname": "Forest Hills",
+      "bblviolations": 111
+    },
+    {
+      "ntaname": "Fort Greene",
+      "bblviolations": 50
+    },
+    {
+      "ntaname": "Fresh Meadows-Utopia",
+      "bblviolations": 16
+    },
+    {
+      "ntaname": "Georgetown-Marine Park-Bergen Beach-Mill Basin",
+      "bblviolations": 17
+    },
+    {
+      "ntaname": "Glen Oaks-Floral Park-New Hyde Park",
+      "bblviolations": 9
+    },
+    {
+      "ntaname": "Glendale",
+      "bblviolations": 117
+    },
+    {
+      "ntaname": "Gramercy",
+      "bblviolations": 19
+    },
+    {
+      "ntaname": "Gravesend",
+      "bblviolations": 42
+    },
+    {
+      "ntaname": "Greenpoint",
+      "bblviolations": 101
+    },
+    {
+      "ntaname": "Grymes Hill-Clifton-Fox Hills",
+      "bblviolations": 252
+    },
+    {
+      "ntaname": "Hamilton Heights",
+      "bblviolations": 1267
+    },
+    {
+      "ntaname": "Hammels-Arverne-Edgemere",
+      "bblviolations": 105
+    },
+    {
+      "ntaname": "Highbridge",
+      "bblviolations": 844
+    },
+    {
+      "ntaname": "Hollis",
+      "bblviolations": 65
+    },
+    {
+      "ntaname": "Homecrest",
+      "bblviolations": 176
+    },
+    {
+      "ntaname": "Hudson Yards-Chelsea-Flatiron-Union Square",
+      "bblviolations": 61
+    },
+    {
+      "ntaname": "Hunters Point-Sunnyside-West Maspeth",
+      "bblviolations": 263
+    },
+    {
+      "ntaname": "Hunts Point",
+      "bblviolations": 483
+    },
+    {
+      "ntaname": "Jackson Heights",
+      "bblviolations": 413
+    },
+    {
+      "ntaname": "Jamaica",
+      "bblviolations": 318
+    },
+    {
+      "ntaname": "Jamaica Estates-Holliswood",
+      "bblviolations": 78
+    },
+    {
+      "ntaname": "Kensington-Ocean Parkway",
+      "bblviolations": 354
+    },
+    {
+      "ntaname": "Kew Gardens",
+      "bblviolations": 85
+    },
+    {
+      "ntaname": "Kew Gardens Hills",
+      "bblviolations": 47
+    },
+    {
+      "ntaname": "Kingsbridge Heights",
+      "bblviolations": 1402
+    },
+    {
+      "ntaname": "Laurelton",
+      "bblviolations": 28
+    },
+    {
+      "ntaname": "Lenox Hill-Roosevelt Island",
+      "bblviolations": 40
+    },
+    {
+      "ntaname": "Lincoln Square",
+      "bblviolations": 79
+    },
+    {
+      "ntaname": "Longwood",
+      "bblviolations": 451
+    },
+    {
+      "ntaname": "Lower East Side",
+      "bblviolations": 83
+    },
+    {
+      "ntaname": "Madison",
+      "bblviolations": 184
+    },
+    {
+      "ntaname": "Manhattanville",
+      "bblviolations": 602
+    },
+    {
+      "ntaname": "Marble Hill-Inwood",
+      "bblviolations": 1257
+    },
+    {
+      "ntaname": "Mariner's Harbor-Arlington-Port Ivory-Graniteville",
+      "bblviolations": 186
+    },
+    {
+      "ntaname": "Maspeth",
+      "bblviolations": 13
+    },
+    {
+      "ntaname": "Melrose South-Mott Haven North",
+      "bblviolations": 551
+    },
+    {
+      "ntaname": "Middle Village",
+      "bblviolations": 37
+    },
+    {
+      "ntaname": "Midwood",
+      "bblviolations": 683
+    },
+    {
+      "ntaname": "Morningside Heights",
+      "bblviolations": 308
+    },
+    {
+      "ntaname": "Morrisania-Melrose",
+      "bblviolations": 633
+    },
+    {
+      "ntaname": "Mott Haven-Port Morris",
+      "bblviolations": 458
+    },
+    {
+      "ntaname": "Mount Hope",
+      "bblviolations": 2169
+    },
+    {
+      "ntaname": "Murray Hill",
+      "bblviolations": 98
+    },
+    {
+      "ntaname": "Murray Hill-Kips Bay",
+      "bblviolations": 20
+    },
+    {
+      "ntaname": "New Brighton-Silver Lake",
+      "bblviolations": 68
+    },
+    {
+      "ntaname": "New Dorp-Midland Beach",
+      "bblviolations": 9
+    },
+    {
+      "ntaname": "New Springville-Bloomfield-Travis",
+      "bblviolations": 4
+    },
+    {
+      "ntaname": "North Corona",
+      "bblviolations": 143
+    },
+    {
+      "ntaname": "North Riverdale-Fieldston-Riverdale",
+      "bblviolations": 28
+    },
+    {
+      "ntaname": "North Side-South Side",
+      "bblviolations": 320
+    },
+    {
+      "ntaname": "Norwood",
+      "bblviolations": 1155
+    },
+    {
+      "ntaname": "Oakland Gardens",
+      "bblviolations": 2
+    },
+    {
+      "ntaname": "Oakwood-Oakwood Beach",
+      "bblviolations": 6
+    },
+    {
+      "ntaname": "Ocean Hill",
+      "bblviolations": 363
+    },
+    {
+      "ntaname": "Ocean Parkway South",
+      "bblviolations": 93
+    },
+    {
+      "ntaname": "Old Astoria",
+      "bblviolations": 78
+    },
+    {
+      "ntaname": "Old Town-Dongan Hills-South Beach",
+      "bblviolations": 18
+    },
+    {
+      "ntaname": "Ozone Park",
+      "bblviolations": 23
+    },
+    {
+      "ntaname": "Park Slope-Gowanus",
+      "bblviolations": 248
+    },
+    {
+      "ntaname": "park-cemetery-etc-Brooklyn",
+      "bblviolations": 3
+    },
+    {
+      "ntaname": "Parkchester",
+      "bblviolations": 201
+    },
+    {
+      "ntaname": "Pelham Bay-Country Club-City Island",
+      "bblviolations": 134
+    },
+    {
+      "ntaname": "Pelham Parkway",
+      "bblviolations": 369
+    },
+    {
+      "ntaname": "Pomonok-Flushing Heights-Hillcrest",
+      "bblviolations": 19
+    },
+    {
+      "ntaname": "Port Richmond",
+      "bblviolations": 68
+    },
+    {
+      "ntaname": "Prospect Heights",
+      "bblviolations": 242
+    },
+    {
+      "ntaname": "Prospect Lefferts Gardens-Wingate",
+      "bblviolations": 1805
+    },
+    {
+      "ntaname": "Queens Village",
+      "bblviolations": 76
+    },
+    {
+      "ntaname": "Queensboro Hill",
+      "bblviolations": 14
+    },
+    {
+      "ntaname": "Queensbridge-Ravenswood-Long Island City",
+      "bblviolations": 54
+    },
+    {
+      "ntaname": "Rego Park",
+      "bblviolations": 39
+    },
+    {
+      "ntaname": "Richmond Hill",
+      "bblviolations": 195
+    },
+    {
+      "ntaname": "Ridgewood",
+      "bblviolations": 617
+    },
+    {
+      "ntaname": "Rosedale",
+      "bblviolations": 7
+    },
+    {
+      "ntaname": "Rugby-Remsen Village",
+      "bblviolations": 1167
+    },
+    {
+      "ntaname": "Schuylerville-Throgs Neck-Edgewater Park",
+      "bblviolations": 81
+    },
+    {
+      "ntaname": "Seagate-Coney Island",
+      "bblviolations": 134
+    },
+    {
+      "ntaname": "Sheepshead Bay-Gerritsen Beach-Manhattan Beach",
+      "bblviolations": 113
+    },
+    {
+      "ntaname": "SoHo-TriBeCa-Civic Center-Little Italy",
+      "bblviolations": 52
+    },
+    {
+      "ntaname": "Soundview-Bruckner",
+      "bblviolations": 716
+    },
+    {
+      "ntaname": "Soundview-Castle Hill-Clason Point-Harding Park",
+      "bblviolations": 100
+    },
+    {
+      "ntaname": "South Jamaica",
+      "bblviolations": 99
+    },
+    {
+      "ntaname": "South Ozone Park",
+      "bblviolations": 151
+    },
+    {
+      "ntaname": "Springfield Gardens North",
+      "bblviolations": 36
+    },
+    {
+      "ntaname": "Springfield Gardens South-Brookville",
+      "bblviolations": 15
+    },
+    {
+      "ntaname": "Spuyten Duyvil-Kingsbridge",
+      "bblviolations": 296
+    },
+    {
+      "ntaname": "St. Albans",
+      "bblviolations": 38
+    },
+    {
+      "ntaname": "Stapleton-Rosebank",
+      "bblviolations": 134
+    },
+    {
+      "ntaname": "Starrett City",
+      "bblviolations": 8
+    },
+    {
+      "ntaname": "Steinway",
+      "bblviolations": 121
+    },
+    {
+      "ntaname": "Stuyvesant Heights",
+      "bblviolations": 476
+    },
+    {
+      "ntaname": "Sunset Park East",
+      "bblviolations": 556
+    },
+    {
+      "ntaname": "Sunset Park West",
+      "bblviolations": 500
+    },
+    {
+      "ntaname": "Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill",
+      "bblviolations": 7
+    },
+    {
+      "ntaname": "Turtle Bay-East Midtown",
+      "bblviolations": 3
+    },
+    {
+      "ntaname": "University Heights-Morris Heights",
+      "bblviolations": 1142
+    },
+    {
+      "ntaname": "Upper East Side-Carnegie Hill",
+      "bblviolations": 47
+    },
+    {
+      "ntaname": "Upper West Side",
+      "bblviolations": 361
+    },
+    {
+      "ntaname": "Van Cortlandt Village",
+      "bblviolations": 1191
+    },
+    {
+      "ntaname": "Van Nest-Morris Park-Westchester Square",
+      "bblviolations": 380
+    },
+    {
+      "ntaname": "Washington Heights North",
+      "bblviolations": 1687
+    },
+    {
+      "ntaname": "Washington Heights South",
+      "bblviolations": 2795
+    },
+    {
+      "ntaname": "West Brighton",
+      "bblviolations": 26
+    },
+    {
+      "ntaname": "West Concourse",
+      "bblviolations": 1199
+    },
+    {
+      "ntaname": "West Farms-Bronx River",
+      "bblviolations": 608
+    },
+    {
+      "ntaname": "West New Brighton-New Brighton-St. George",
+      "bblviolations": 153
+    },
+    {
+      "ntaname": "West Village",
+      "bblviolations": 26
+    },
+    {
+      "ntaname": "Westchester-Unionport",
+      "bblviolations": 354
+    },
+    {
+      "ntaname": "Westerleigh",
+      "bblviolations": 1
+    },
+    {
+      "ntaname": "Whitestone",
+      "bblviolations": 1
+    },
+    {
+      "ntaname": "Williamsbridge-Olinville",
+      "bblviolations": 1520
+    },
+    {
+      "ntaname": "Williamsburg",
+      "bblviolations": 67
+    },
+    {
+      "ntaname": "Windsor Terrace",
+      "bblviolations": 57
+    },
+    {
+      "ntaname": "Woodhaven",
+      "bblviolations": 189
+    },
+    {
+      "ntaname": "Woodlawn-Wakefield",
+      "bblviolations": 486
+    },
+    {
+      "ntaname": "Woodside",
+      "bblviolations": 159
+    },
+    {
+      "ntaname": "Yorkville",
+      "bblviolations": 55
+    }
+  ]
