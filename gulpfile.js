@@ -12,6 +12,7 @@ const jshint = require('gulp-jshint');
 const concat = require('gulp-concat');
 const rename = require('gulp-rename');
 const terser = require('gulp-terser');
+const babel = require('gulp-babel');
 
 // Expose the sas to css task
 function sassworkflow() {
@@ -51,6 +52,10 @@ function scripts() {
             './src/js/*.js'
         ])
         .pipe(sourcemaps.init())
+         .pipe(babel({
+          // transpile ES6 to ES5 and minify
+          presets: ['@babel/preset-env']
+        }))
         .pipe(concat('scripts.js'))
         .pipe(sourcemaps.write())
         .pipe(gulp.dest('./dist/js'))
